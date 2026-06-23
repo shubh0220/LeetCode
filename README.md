@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubh0220/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/shubh0220/LeetCode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/shubh0220/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/shubh0220/LeetCode/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/shubh0220/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shubh0220/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Binary Search
@@ -33,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
