@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
 | [1200-minimum-absolute-difference](https://github.com/shubh0220/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shubh0220/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Sorting
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
