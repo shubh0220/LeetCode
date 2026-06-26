@@ -1,6 +1,7 @@
 class Solution {
     void helper(int i,int k,int n,List<List<Integer>> ans,List<Integer> list){
         if(n < 0) return;
+        if(k<0) return;
         if(k == 0){
             if(n == 0) ans.add(new ArrayList<>(list));
             return;
