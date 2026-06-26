@@ -128,5 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
