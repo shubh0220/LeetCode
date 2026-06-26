@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubh0220/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/shubh0220/LeetCode/tree/master/0141-linked-list-cycle) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubh0220/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
 ## Dynamic Programming
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shubh0220/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubh0220/LeetCode/tree/master/0040-combination-sum-ii) |
