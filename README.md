@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubh0220/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shubh0220/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0493-reverse-pairs](https://github.com/shubh0220/LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubh0220/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/shubh0220/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubh0220/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shubh0220/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shubh0220/LeetCode/tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
