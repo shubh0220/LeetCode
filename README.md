@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
+| [1051-height-checker](https://github.com/shubh0220/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/shubh0220/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shubh0220/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubh0220/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/shubh0220/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/shubh0220/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/shubh0220/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shubh0220/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 ## Binary Search
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/shubh0220/LeetCode/tree/master/1051-height-checker) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubh0220/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
