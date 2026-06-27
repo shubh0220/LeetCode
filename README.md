@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
 ## Two Pointers
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/shubh0220/LeetCode/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
 ## Dynamic Programming
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shubh0220/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/shubh0220/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shubh0220/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
 ## Bit Manipulation
 |  |
 | ------- |
