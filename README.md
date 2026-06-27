@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubh0220/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/shubh0220/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shubh0220/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubh0220/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shubh0220/LeetCode/tree/master/0051-n-queens) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/shubh0220/LeetCode/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubh0220/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/shubh0220/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/shubh0220/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/shubh0220/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shubh0220/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/shubh0220/LeetCode/tree/master/0051-n-queens) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/shubh0220/LeetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/shubh0220/LeetCode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
