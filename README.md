@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shubh0220/LeetCode/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubh0220/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/shubh0220/LeetCode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/shubh0220/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shubh0220/LeetCode/tree/master/0213-house-robber-ii) |
 ## Backtracking
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubh0220/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shubh0220/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
