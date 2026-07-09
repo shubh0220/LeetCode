@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shubh0220/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shubh0220/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/shubh0220/LeetCode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubh0220/LeetCode/tree/master/0518-coin-change-ii) |
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shubh0220/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shubh0220/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shubh0220/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubh0220/LeetCode/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
 | [1049-last-stone-weight-ii](https://github.com/shubh0220/LeetCode/tree/master/1049-last-stone-weight-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shubh0220/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/shubh0220/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
