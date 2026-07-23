@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0307-range-sum-query-mutable](https://github.com/shubh0220/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/shubh0220/LeetCode/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/shubh0220/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shubh0220/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shubh0220/LeetCode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/shubh0220/LeetCode/tree/master/0493-reverse-pairs) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/shubh0220/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/shubh0220/LeetCode/tree/master/0455-assign-cookies) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubh0220/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Combinatorics
