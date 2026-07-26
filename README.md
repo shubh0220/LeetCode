@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubh0220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1049-last-stone-weight-ii](https://github.com/shubh0220/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/shubh0220/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/shubh0220/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shubh0220/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubh0220/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubh0220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/shubh0220/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/shubh0220/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/shubh0220/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/shubh0220/LeetCode/tree/master/0455-assign-cookies) |
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/shubh0220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 ## Divide and Conquer
 |  |
