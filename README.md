@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubh0220/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
 | [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubh0220/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubh0220/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubh0220/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubh0220/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -290,16 +292,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubh0220/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shubh0220/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shubh0220/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
+| [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -312,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/shubh0220/LeetCode/tree/master/0307-range-sum-query-mutable) |
+## Suffix Array
+|  |
+| ------- |
+| [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 <!---LeetCode Topics End-->
