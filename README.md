@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubh0220/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
+| [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubh0220/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubh0220/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubh0220/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -288,14 +289,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shubh0220/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shubh0220/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/shubh0220/LeetCode/tree/master/0187-repeated-dna-sequences) |
+| [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
 ## Breadth-First Search
 |  |
 | ------- |
