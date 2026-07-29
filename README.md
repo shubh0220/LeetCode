@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/shubh0220/LeetCode/tree/master/0079-word-search) |
 | [0187-repeated-dna-sequences](https://github.com/shubh0220/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
+| [0394-decode-string](https://github.com/shubh0220/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubh0220/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
 | [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
@@ -338,5 +339,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubh0220/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/shubh0220/LeetCode/tree/master/0394-decode-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shubh0220/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/shubh0220/LeetCode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
