@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/shubh0220/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/shubh0220/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/shubh0220/LeetCode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/shubh0220/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubh0220/LeetCode/tree/master/0518-coin-change-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shubh0220/LeetCode/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/shubh0220/LeetCode/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubh0220/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/shubh0220/LeetCode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/shubh0220/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shubh0220/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubh0220/LeetCode/tree/master/0518-coin-change-ii) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
@@ -349,9 +352,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shubh0220/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/shubh0220/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/shubh0220/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/shubh0220/LeetCode/tree/master/0394-decode-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
