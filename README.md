@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/shubh0220/LeetCode/tree/master/0090-subsets-ii) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubh0220/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/shubh0220/LeetCode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/shubh0220/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/shubh0220/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shubh0220/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shubh0220/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/shubh0220/LeetCode/tree/master/0037-sudoku-solver) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubh0220/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/shubh0220/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shubh0220/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0187-repeated-dna-sequences](https://github.com/shubh0220/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shubh0220/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
