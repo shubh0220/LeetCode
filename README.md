@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubh0220/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubh0220/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubh0220/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shubh0220/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/shubh0220/LeetCode/tree/master/1463-cherry-pickup-ii) |
+| [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubh0220/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 ## Union-Find
 |  |
 | ------- |
@@ -403,13 +406,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shubh0220/LeetCode/tree/master/0547-number-of-provinces) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
