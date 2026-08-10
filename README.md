@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shubh0220/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/shubh0220/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubh0220/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shubh0220/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubh0220/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubh0220/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubh0220/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubh0220/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/shubh0220/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubh0220/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
 ## Union-Find
 |  |
 | ------- |
