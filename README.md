@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubh0220/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shubh0220/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubh0220/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubh0220/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubh0220/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubh0220/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/shubh0220/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubh0220/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shubh0220/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubh0220/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/shubh0220/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubh0220/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
 ## Union-Find
 |  |
 | ------- |
@@ -411,12 +416,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
 ## Graph Theory
 |  |
 | ------- |
