@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/shubh0220/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0307-range-sum-query-mutable](https://github.com/shubh0220/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/shubh0220/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/shubh0220/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shubh0220/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/shubh0220/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubh0220/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
@@ -475,4 +478,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubh0220/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
