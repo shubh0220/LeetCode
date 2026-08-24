@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shubh0220/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubh0220/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubh0220/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/shubh0220/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubh0220/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Enumeration
 |  |
@@ -487,8 +492,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
