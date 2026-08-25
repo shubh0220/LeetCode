@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/shubh0220/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/shubh0220/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/shubh0220/LeetCode/tree/master/2029-stone-game-ix) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/shubh0220/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubh0220/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubh0220/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shubh0220/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2223-sum-of-scores-of-built-strings](https://github.com/shubh0220/LeetCode/tree/master/2223-sum-of-scores-of-built-strings) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shubh0220/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubh0220/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Math
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Quickselect
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1872-stone-game-viii](https://github.com/shubh0220/LeetCode/tree/master/1872-stone-game-viii) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/shubh0220/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shubh0220/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubh0220/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shubh0220/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Enumeration
 |  |
 | ------- |
@@ -495,9 +500,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 <!---LeetCode Topics End-->
