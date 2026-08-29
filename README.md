@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/shubh0220/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1425-constrained-subsequence-sum](https://github.com/shubh0220/LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shubh0220/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/shubh0220/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/shubh0220/LeetCode/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/shubh0220/LeetCode/tree/master/0912-sort-an-array) |
+| [1425-constrained-subsequence-sum](https://github.com/shubh0220/LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Quickselect
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/shubh0220/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
+| [1425-constrained-subsequence-sum](https://github.com/shubh0220/LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [1463-cherry-pickup-ii](https://github.com/shubh0220/LeetCode/tree/master/1463-cherry-pickup-ii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/shubh0220/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shubh0220/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1425-constrained-subsequence-sum](https://github.com/shubh0220/LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shubh0220/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Enumeration
@@ -508,11 +512,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/shubh0220/LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/shubh0220/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/shubh0220/LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
 <!---LeetCode Topics End-->
