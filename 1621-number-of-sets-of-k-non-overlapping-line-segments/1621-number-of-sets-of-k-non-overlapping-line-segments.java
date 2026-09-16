@@ -6,7 +6,7 @@ class Solution {
         for(int i=0;i<=k;i++) dp[n][i] = 0;
         for(int j=1;j<=k;j++){
             int[] suffix = new int[n+1];
-            for (int x = n - 1; x >= 0; x--) suffix[x] = (int) ((suffix[x+1]+dp[x][j-1]) % MOD);
+            for(int x=n-1;x>=0;x--) suffix[x] = (int) ((suffix[x+1]+dp[x][j-1]) % MOD);
             for(int i=n-1;i>=0;i--){
                 int skip = dp[i+1][j];
                 int take = suffix[i+1];
