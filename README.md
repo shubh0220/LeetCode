@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/shubh0220/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0932-beautiful-array](https://github.com/shubh0220/LeetCode/tree/master/0932-beautiful-array) |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shubh0220/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/shubh0220/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubh0220/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/shubh0220/LeetCode/tree/master/1563-stone-game-v) |
@@ -563,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/shubh0220/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1425-constrained-subsequence-sum](https://github.com/shubh0220/LeetCode/tree/master/1425-constrained-subsequence-sum) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/shubh0220/LeetCode/tree/master/2398-maximum-number-of-robots-within-budget) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/shubh0220/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
