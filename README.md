@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/shubh0220/LeetCode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubh0220/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/shubh0220/LeetCode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubh0220/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shubh0220/LeetCode/tree/master/0704-binary-search) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shubh0220/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubh0220/LeetCode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/shubh0220/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
 | [1049-last-stone-weight-ii](https://github.com/shubh0220/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shubh0220/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/shubh0220/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/shubh0220/LeetCode/tree/master/0079-word-search) |
+| [0542-01-matrix](https://github.com/shubh0220/LeetCode/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
 | [0835-image-overlap](https://github.com/shubh0220/LeetCode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/shubh0220/LeetCode/tree/master/0994-rotting-oranges) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shubh0220/LeetCode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/shubh0220/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/shubh0220/LeetCode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/shubh0220/LeetCode/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/shubh0220/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
