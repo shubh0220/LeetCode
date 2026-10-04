@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/shubh0220/LeetCode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/shubh0220/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0481-magical-string](https://github.com/shubh0220/LeetCode/tree/master/0481-magical-string) |
+| [0678-valid-parenthesis-string](https://github.com/shubh0220/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/shubh0220/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shubh0220/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1392-longest-happy-prefix](https://github.com/shubh0220/LeetCode/tree/master/1392-longest-happy-prefix) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/shubh0220/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shubh0220/LeetCode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/shubh0220/LeetCode/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/shubh0220/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0741-cherry-pickup](https://github.com/shubh0220/LeetCode/tree/master/0741-cherry-pickup) |
 | [1049-last-stone-weight-ii](https://github.com/shubh0220/LeetCode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/shubh0220/LeetCode/tree/master/1140-stone-game-ii) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/shubh0220/LeetCode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/shubh0220/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/shubh0220/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/shubh0220/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shubh0220/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/shubh0220/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/shubh0220/LeetCode/tree/master/1927-sum-game) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubh0220/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/shubh0220/LeetCode/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/shubh0220/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/shubh0220/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shubh0220/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubh0220/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/shubh0220/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shubh0220/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubh0220/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubh0220/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
